@@ -1,4 +1,17 @@
-
+/*
+ * lol
+ * lol
+ * lol
+ * lol
+ * dit is een patch
+ * hehe
+ * hehe
+ * hehe
+ * lolo
+ * lollerdelol
+ * :)
+ * ...
+ */
 package view;
 
 import java.awt.Color;
