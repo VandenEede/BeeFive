@@ -1,15 +1,4 @@
-/*
- * ffsdfsdf
- * sdfsfsdf
- * sdfsdfsdf
- * sdfsdfsdf
- * sdfsdfsf
- * sdfsdf
- * gsdgsdgsdg
- * sdgsdgsdg
- * sdgsdg
- * fqsdfsdf
- */
+
 package view;
 
 import java.awt.Color;
